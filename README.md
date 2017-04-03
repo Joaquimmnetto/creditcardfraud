@@ -18,9 +18,9 @@ Database released under Open Database License, individual contents under Databas
 
 ## TODO
 
-* Perform data wrangling more intensive (null validation, remove rows with problems etc).\n",
-* Give `Time` variable a better representation.\n",
-* Rethink about duplicated rows.\n",
-* Refactor all graphics to use _seaborn_ insted of plain _matplotlib_.\n",
-* Explore more deeply t-SNE inner working.\n",
-* Create Trello board."
+* Perform data wrangling more intensive (null validation, remove rows with problems etc).
+* Give `Time` variable a better representation.
+* Rethink about duplicated rows.
+* Refactor all graphics to use _seaborn_ insted of plain _matplotlib_.
+* Explore more deeply t-SNE inner working.
+* Create Trello board.
