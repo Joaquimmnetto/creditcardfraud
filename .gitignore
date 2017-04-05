@@ -90,3 +90,6 @@ ENV/
 
 # CSV data files in data directory
 data/*.csv
+
+# Python scripts should not be placed in notebooks directory
+notebooks/*.py
